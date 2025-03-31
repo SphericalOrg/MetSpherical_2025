@@ -1,38 +1,39 @@
 # MetSpherical_2025
 Solution for the Social Context Comprehension Course in the University of the Frontier
 
-## Members:
-- Cristóbal Cariqueo
-- Alvaro Parra
-- Jun Sáez
-- Felipe Seguel
+## Análisis
+Las comunidades de vecinos en el país enfrentan diversas dificultades para organizarse y relacionarse. La falta de conocimiento mutuo, la dificultad para adaptarse al entorno social y la ausencia de espacios de comunicación dificultan la convivencia. Estas problemáticas, agravadas por factores sociales debidos a los acelerados cambios en el estilo de vida de la sociedad, se pueden analizar en detalle de la siguiente manera:
 
+- **Falta de canales de comunicación eficientes, sobre todo digitales**.
+- **Falta de cohesión social y organización entre vecinos**.
+- **Carencia de mecanismos efectivos para la resolución de conflictos vecinales**.
+- **Poca inclusión y casos de exclusión de miembros de la comunidad**.
+- **Ausencia de liderazgo y dificultades en la ejecución de iniciativas comunitarias**.
 
-## Problem Description:
-Neighborhood communities in the country face various difficulties in organizing and relating. The lack of mutual knowledge, the difficulty in adapting to the social environment and the absence of spaces for communication make coexistence difficult. These problems, aggravated by social factors due to accelerated changes in society's lifestyle, can be analyzed in detail as follows:
-- Lack of efficient communication channels, especially digital.
-- Lack of social cohesion and organization between neighbors.
-- Lack of effective mechanisms for the resolution of neighborhood conflicts.
-- Little inclusion and cases of exclusion of community members.
-- Absence of leadership and difficulties in the execution of community initiatives.
+Como grupo hemos abordado estos puntos, y mediante las tecnologías de la información se han elaborado diferentes métodos para resolver estas problemáticas. Estos métodos tienen como objetivo ayudar y posiblemente resolver las problemáticas anteriormente mencionadas para así ser un avance y mejorar la calidad de vida de las comunidades del país.
 
-As a group we have addressed these points, and through information technologies different methods have been developed to solve these problems. These methods aim to help and possibly solve the aforementioned problems in order to be an advance to improve the quality of life of the communities in the country.
+Los métodos previamente mencionados, serán explicados y abordados con mayor complejidad en el siguiente capítulo del documento: “Soluciones”.
 
-The previously mentioned methods will be explained and addressed with greater complexity in the following chapter of the document: “Solutions”
+## Soluciones
+Para poder trabajar en estas problemáticas, como grupo hemos ideado un prototipo de plataforma que abordará todas las problemáticas anteriormente mencionadas.
 
+La solución propuesta es una plataforma social que permitirá mejorar la comunicación entre los miembros de la comunidad. Esta plataforma será tipo foro, donde los vecinos podrán exponer temas variados, como alertas, quejas, críticas constructivas y posts relacionados a la comunidad. Esta integrará también herramientas enfocadas a la resolución de conflictos e identificación de miembros que serían óptimos para tomar liderazgo relacionado a esta comunidad.
 
-## Solutions:
-In order to work on these problems as a group, we have devised the prototype of the solution which will address all the problems mentioned above.
+Además, presentamos nuestra solución de forma enfocada en cada foco evidenciado para esta problemática:
+- **Falta de Cohesión Grupal**: La plataforma contaría con un apartado social, en el que los vecinos se relacionen y fortalezcan el sentido de comunidad.
+  
+- **Deficientes Canales de Comunicación**: Nuestro producto contaría con un mecanismo en el que los vecinos podrán compartir noticias y discutir proyectos vecinales de forma ordenada.
 
-The proposed solution is a social platform that will improve communication between community members. This platform will be a forum type, where neighbors will be able to present various topics, such as alerts, complaints, constructive criticism, and posts related to the community.
+- **Conflictos entre Vecinos**: En sincronía con la solución al foco anteriormente señalado, buscamos entregar una forma de mantener conversaciones sin obstaculizar la comunicación efectiva.
 
-We also present our solution focused on each focus highlighted for this problem:
-- **Lack of Group Cohesion:** The platform would have a social section, where neighbors interact and strengthen the sense of community.
+- **Vecinos Estigmatizados**: De vuelta al ámbito social, apuntamos a facilitar una forma de expresión personal para que puedan dar a conocer su historia y aportes a la comunidad, fomentando la empatía.
 
-- **Poor communication channels:** Our product would have a mechanism in which neighbors can share news and discuss neighborhood projects in an orderly manner.
+- **Falta de Liderazgos Vecinales**: Otro objetivo que nos planteamos es desarrollar un sistema de valoración que ayude a identificar y apoyar líderes potenciales, como ha sido planteado en la problemática.
 
-- **Conflicts between neighbors:** In sync with the solution to the previously mentioned focus, we seek to provide a way to maintain conversations without hindering effective communication.
+## Grupo de Interés
+Nuestro proyecto ofrece una oportunidad tanto a los gobiernos municipales como al ciudadano promedio, con un enfoque en las juntas de vecinos y a aquellos que hayan sido isolados de su comunidad local, ya sea un trabajador sin tiempo de entablar comunicación con sus vecinos, hasta el adulto mayor aislado por la vejez y el rápido avance de la tecnología.
 
-- **Stigmatized neighbors:** Returning to the social sphere, we aim to facilitate a form of personal expression so that they can make their history and contributions to the community known, promoting empathy.
-
-- **Lack of neighborhood leadership:** Another objective we set is to develop an assessment system that helps identify and support potential leaders, as has been raised in the problem.
+## Responsabilidad Social
+Se espera que la realización de nuestra iniciativa incremente el índice de participación en políticas locales a nivel barrial y comunal, que reduzca el sentimiento de soledad en la población especialmente en adultos mayores, incremente la sensación de seguridad gracias a una mejor organización ciudadana y que facilite la resolución de conflictos entre los miembros de una misma comunidad.
+Cabe mencionar el riesgo de que nuestro servicio sea un medio para la generación de conflictos y que estos escalen a consecuencias en la vida real debido a la acción de individuos o grupos malintencionados. Situación también presente en redes sociales convencionales.
+Es con esto en mente que estamos enfocados en garantizar la seguridad de nuestros usuarios, implementando políticas de seguridad y moderación razonables pretendemos identificar y eliminar a dichos males actores limitando sus posibilidades de reinserción al medio.rs:** Returning to the social sphere, we aim to facilitate a form of personal expression so that they can make their history and contributions to the community known, promoting empathy.
